@@ -1,2 +1,3 @@
 # School-Management-System
-This is my 1st git Repository 
+This is my 1st git Repository
+Author-Ishtiak Ahmed 
